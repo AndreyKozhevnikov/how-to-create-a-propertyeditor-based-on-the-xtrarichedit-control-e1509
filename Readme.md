@@ -1,7 +1,5 @@
 <strong> UPDATE: </strong>
-XAF v18.1 introduces a new reusable <a href="https://docs.devexpress.com/eXpressAppFramework/400003/concepts/extra-modules/office-module/office-module-overview">Office Module</a>. This module integrates the <a href="https://www.devexpress.com/Products/NET/Controls/WinForms/Rich_Editor/">DevExpress WinForms Rich Text Editor</a> - allowing end-users to create, load, change, print, save and convert documents in different formats. 
-
-We suggest this module for new applications. The current example won't be developed anymore.
+Use the <a href="https://docs.devexpress.com/eXpressAppFramework/400003/concepts/extra-modules/office-module/office-module-overview">Office Module</a> to integrate <a href="https://www.devexpress.com/Products/NET/Controls/WinForms/Rich_Editor/">DevExpress WinForms Rich Text Editor</a> in all new XAF WinForms applications. The current example is obsolete.
  
 # Obsolete - How to create a PropertyEditor based on the XtraRichEdit control
 
